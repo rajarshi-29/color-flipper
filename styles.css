@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+h1 {
+    color: #333;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+#green {
+    background-color: green;
+}
+#red {
+    background-color: red;
+}
+#blue {
+    background-color: blue;
+}
+#random {
+    background-color: #6c757d; 
+}
+button {
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin: 10px; /*Space b/w buttons*/
+    font-size: 1rem; 
+    cursor: pointer; /*Pointer cursor on hover*/
+    transition: all 0.3 ease-in-out; /*Smooth Hover Effect*/
+}
+button:hover {
+    transform: scale(1.1);
+    opacity: 0.9;
+}
+@media (max-width: 600px) {
+    button {
+        width: 100%; /*Buttons take full width*/
+        margin-bottom: 10px; /*Add spacing between buttons*/
+    }
+}
