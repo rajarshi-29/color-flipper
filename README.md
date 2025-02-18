@@ -39,6 +39,8 @@ A simple web project that allows users to change the background color of a webpa
 
 This area is still under maintenance. I apologize for the incovenience in the meanwhile.
 
+---
+
 ## Live Demo
 
 Check out the live version of this project here: [Color Flipper Live Demo](https://rajarshi-29.github.io/color-flipper/)
