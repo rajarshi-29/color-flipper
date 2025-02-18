@@ -41,6 +41,10 @@ A simple web project that allows users to change the background color of a webpa
 ```bash
 git clone https://github.com/rajarshi-29/color-flipper.git
 ```
+2. Open the `index.html` file in your browser:
+```bash
+open index.html
+```
 
 ---
 
