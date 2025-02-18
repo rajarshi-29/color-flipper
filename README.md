@@ -37,7 +37,10 @@ A simple web project that allows users to change the background color of a webpa
 
 ## How to Run Locally
 
-This area is still under maintenance. I apologize for the incovenience in the meanwhile.
+1. Clone this repository:
+```
+git clone https://github.com/rajarshi-29/color-flipper.git
+```
 
 ---
 
